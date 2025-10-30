@@ -1,0 +1,27 @@
+运行source env.sh
+跑sh run2.sh
+
+snpe-net-run   --container ../dlc/inception_v3.dlc   --input_list target_raw_list.txt   --output_dir output
+
+
+../snpe-net-run --container inception_v3.dlc   --input_list target_raw_list.txt   --output_dir output
+
+../snpe-net-run --container inception_v3.dlc   --input_list target_raw_list.txt   --output_dir output --use_aip
+
+https://blog.csdn.net/weixin_38498942/article/details/131086537
+
+https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/saver_tutorial.html#replaying-saver_output-c-on-android
+
+
+https://github.com/quic/qidk/blob/master/Solutions/NLPSolution1-QuestionAnswering/README.md#4-build-and-run-with-android-studio
+
+https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/backend.html
+
+https://mysupport.qualcomm.com/supportforums/s/feed/0D5dK0000032ZSzSAM
+
+https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15BY/ai-ml-reference-apps.html
+https://github.com/chenjun2hao/qualcomm.sd
+
+../qnn-platform-validator --backend dsp --testBackend --libVersion --coreVersion
+../qnn-platform-validator --backend dsp
+../snpe-net-run --container inception_v3_sm8650.dlc   --input_list target_raw_list.txt   --output_dir output --use_dsp
