@@ -2,6 +2,7 @@
 qnn安卓npu环境记录
 
 <img width="1054" height="470" alt="image" src="https://github.com/user-attachments/assets/66579e70-f197-4f3b-8062-825bbfcd0980" />
+
 ```
 source env.sh
 sh run2.sh
