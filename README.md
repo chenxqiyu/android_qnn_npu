@@ -13,10 +13,15 @@ sh run2.sh
 <img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/96bfab5d-603f-4fe0-828b-911a23aefe97" />
 
 模型下载
-
+```
 https://aihub.qualcomm.com/mobile/models/efficientnet_b0
+```
 
+hf
+```
+https://huggingface.co/qualcomm/EfficientNet-B0/tree/8f26a3264b4d3046860c3ba9f54fd44875c90f39
+```
 手机ai天梯图
-
+```
 https://ai-benchmark.com/ranking.html?from=from_parent_mindnote
-
+```
