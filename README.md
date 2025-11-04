@@ -42,3 +42,8 @@ https://ai-benchmark.com/ranking.html?from=from_parent_mindnote
 python -m qai_hub_models.models.efficientnet_b0.export --quantize w8a16 --chipset qualcomm-snapdragon-8gen3 --target-runtime qnn
 ```
 <img width="1211" height="686" alt="image" src="https://github.com/user-attachments/assets/a6418774-3191-4851-89af-7fb4d3293ed4" />
+
+```
+手机npu跑图项目
+https://github.com/xororz/local-dream
+```
