@@ -30,6 +30,7 @@ snpe-net-run推理(使用的是dlc)测试gpu最强
 ```
 <img width="1964" height="479" alt="image" src="https://github.com/user-attachments/assets/cf1e7ce0-f220-4284-bb78-394c1ff0f983" />
 <img width="1209" height="732" alt="image" src="https://github.com/user-attachments/assets/21f16fdc-2cf8-40c6-9c52-347e992f582f" />
+
 ```
 qnn-net-run推理(使用的是so或bin)
 ```
