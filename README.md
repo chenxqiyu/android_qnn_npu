@@ -25,3 +25,8 @@ https://huggingface.co/qualcomm/EfficientNet-B0/tree/8f26a3264b4d3046860c3ba9f54
 ```
 https://ai-benchmark.com/ranking.html?from=from_parent_mindnote
 ```
+```
+snpe-net-run
+```
+<img width="1964" height="479" alt="image" src="https://github.com/user-attachments/assets/cf1e7ce0-f220-4284-bb78-394c1ff0f983" />
+<img width="1209" height="732" alt="image" src="https://github.com/user-attachments/assets/21f16fdc-2cf8-40c6-9c52-347e992f582f" />
