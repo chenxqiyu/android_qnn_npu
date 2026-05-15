@@ -47,3 +47,10 @@ python -m qai_hub_models.models.efficientnet_b0.export --quantize w8a16 --chipse
 手机npu跑图项目
 https://github.com/xororz/local-dream
 ```
+
+```
+apk集成测试
+<img width="2677" height="964" alt="e9f0aee0f854d3ee2da520a4208bdf88" src="https://github.com/user-attachments/assets/991e4162-ecec-47fa-ad1c-0af85bb681c7" />
+<img width="841" height="1777" alt="11b6523b95857082909014e487c80c5f" src="https://github.com/user-attachments/assets/7145d5f1-b9f8-463d-95f1-182644b79663" />
+
+```
