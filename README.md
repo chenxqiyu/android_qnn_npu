@@ -53,3 +53,11 @@ apk集成测试
 ```
 <img width="2677" height="964" alt="e9f0aee0f854d3ee2da520a4208bdf88" src="https://github.com/user-attachments/assets/991e4162-ecec-47fa-ad1c-0af85bb681c7" />
 <img width="841" height="1777" alt="11b6523b95857082909014e487c80c5f" src="https://github.com/user-attachments/assets/7145d5f1-b9f8-463d-95f1-182644b79663" />
+
+```
+实时检测
+```
+<img width="1080" height="2400" alt="6213d17209575b3711d62622adfc7b44" src="https://github.com/user-attachments/assets/a6bc527c-3ce6-47c7-882d-b91928e03d6e" />
+<img width="1080" height="2400" alt="6072e41e9df281d01c2d6bb038af3b66" src="https://github.com/user-attachments/assets/ac8705bd-2e7b-444a-8145-9e492eb16a54" />
+
+
