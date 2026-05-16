@@ -1,3 +1,10 @@
+<p align="center">
+Welcome, the
+<a href="https://github.com/chenxqiyu" target="_blank"><img src="https://count.getloli.com/get/@android_qnn_npu?theme=rule34" alt="Visitor Counter"></a>
+th vistor!
+</p>
+
+
 # android_qnn_npu
 qnn安卓npu环境记录
 
