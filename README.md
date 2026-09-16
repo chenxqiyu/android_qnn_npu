@@ -67,6 +67,12 @@ apk集成测试
 <img width="400" alt="6213d17209575b3711d62622adfc7b44" src="https://github.com/user-attachments/assets/a6bc527c-3ce6-47c7-882d-b91928e03d6e" />
 <img width="400" alt="6072e41e9df281d01c2d6bb038af3b66" src="https://github.com/user-attachments/assets/ac8705bd-2e7b-444a-8145-9e492eb16a54" />
 
+```
+chroot+debian+手机开发本地一体化
+```
+<img width="1920" height="892" alt="image" src="https://github.com/user-attachments/assets/e63932bb-62e7-47f4-9853-66e0b37a57e5" />
+
+
 * **骁龙 8Gen3 手机 APK 下载测试**: [android_npu (GitHub)](https://github.com/chenxqiyu/android_npu)
 
 
