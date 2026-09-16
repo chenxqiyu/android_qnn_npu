@@ -69,6 +69,8 @@ apk集成测试
 
 ```
 chroot+debian+手机开发本地一体化
+ndk-aarch64-linux:
+https://github.com/SnowNF/ndk-aarch64-linux/releases
 ```
 <img width="1847" height="705" alt="Snipaste_2026-09-16_17-02-46" src="https://github.com/user-attachments/assets/6335aec2-ec54-4cdc-83e3-fa7a53049ace" />
 <img width="1695" height="924" alt="Snipaste_2026-09-16_17-02-21" src="https://github.com/user-attachments/assets/a799343a-175e-4a1f-b6a7-713e9eee252e" />
