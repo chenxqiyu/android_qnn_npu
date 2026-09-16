@@ -75,6 +75,8 @@ https://github.com/SnowNF/ndk-aarch64-linux/releases
 <img width="1847" height="705" alt="Snipaste_2026-09-16_17-02-46" src="https://github.com/user-attachments/assets/6335aec2-ec54-4cdc-83e3-fa7a53049ace" />
 <img width="1695" height="924" alt="Snipaste_2026-09-16_17-02-21" src="https://github.com/user-attachments/assets/a799343a-175e-4a1f-b6a7-713e9eee252e" />
 <img width="1920" height="892" alt="image" src="https://github.com/user-attachments/assets/e63932bb-62e7-47f4-9853-66e0b37a57e5" />
+<img width="2350" height="1796" alt="image" src="https://github.com/user-attachments/assets/8df104f1-f6e8-4601-b5f4-3a8ea696cf3a" />
+
 
 
 * **骁龙 8Gen3 手机 APK 下载测试**: [android_npu (GitHub)](https://github.com/chenxqiyu/android_npu)
