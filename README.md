@@ -51,11 +51,6 @@ python -m qai_hub_models.models.efficientnet_b0.export --quantize w8a16 --chipse
 <img width="1211" height="686" alt="image" src="https://github.com/user-attachments/assets/a6418774-3191-4851-89af-7fb4d3293ed4" />
 
 ```
-手机npu跑图项目
-https://github.com/xororz/local-dream
-```
-
-```
 apk集成测试
 ```
 <img width="2677" height="964" alt="e9f0aee0f854d3ee2da520a4208bdf88" src="https://github.com/user-attachments/assets/991e4162-ecec-47fa-ad1c-0af85bb681c7" />
@@ -80,5 +75,7 @@ https://github.com/SnowNF/ndk-aarch64-linux/releases
 
 
 * **骁龙 8Gen3 手机 APK 下载测试**: [android_npu (GitHub)](https://github.com/chenxqiyu/android_npu)
+* **手机npu跑图项目**: [local-dream (GitHub)](https://github.com/xororz/local-dream)
+
 
 
